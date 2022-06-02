@@ -16,4 +16,4 @@
 
 ## See it live!
 
-    Navigate here[](https://m-ruch.github.io/ocala-newsletter) to see it live!
+    Navigate here[https://m-ruch.github.io/ocala-newsletter] to see it live!
