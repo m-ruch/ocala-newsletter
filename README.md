@@ -3,9 +3,9 @@
 ## Local testing
 
     From the root directory, run the following command:
-        python3 -m http.server
+        `python3 -m http.server`
     
-    The page should now be availabe at 'http:localhost:8000'
+    The page should now be availabe at `http:localhost:8000`
 
 ## Technologies used
 
@@ -16,4 +16,4 @@
 
 ## See it live!
 
-    Navigate [here[](https://m-ruch.github.io/ocala-newsletter) to see it live!]
+    Navigate here[(https://m-ruch.github.io/ocala-newsletter) to see it live!]
